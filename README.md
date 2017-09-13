@@ -1,7 +1,8 @@
 <html>
 <head>
-<title>website</title>
-<meta http-equiv="refresh" content="1; URL=http://kb2kang.github.io">
+<title>Website
+</title>
+<meta http-equiv="refresh" content="1; URL=http://hb2kang.github.io">
 <meta name="keywords" content="automatic redirection">
 </head>
 <body>
